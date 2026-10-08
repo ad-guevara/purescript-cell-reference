@@ -1,0 +1,6 @@
+{
+  "files.exclude": {
+    "**/.spago": true,
+    "**/output": true
+  }
+}
